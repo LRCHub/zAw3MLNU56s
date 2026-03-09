@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Shameless",
+  "base_artist": "Camila Cabello",
+  "createdAt": "2026-03-09T17:47:10.013408Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Groove Armada",
+      "has_synced": true,
+      "path": "select/01_Shameless_Groove_Armada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "The Human League",
+      "has_synced": false,
+      "path": "select/02_Shameless_The_Human_League.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sign of the Shameless",
+      "artist": "Trail Of Tears",
+      "has_synced": false,
+      "path": "select/03_Sign_of_the_Shameless_Trail_Of_Tears.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Pet Shop Boys",
+      "has_synced": true,
+      "path": "select/04_Shameless_Pet_Shop_Boys.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "All Time Low",
+      "has_synced": false,
+      "path": "select/05_Shameless_All_Time_Low.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "All Time Low",
+      "has_synced": true,
+      "path": "select/06_Shameless_All_Time_Low.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Kids In Glass Houses",
+      "has_synced": true,
+      "path": "select/07_Shameless_Kids_In_Glass_Houses.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Shameless Halo",
+      "artist": "Descendents",
+      "has_synced": true,
+      "path": "select/08_Shameless_Halo_Descendents.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_Shameless_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Camila Cabello",
+      "has_synced": true,
+      "path": "select/10_Shameless_Camila_Cabello.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Billy Joel",
+      "has_synced": true,
+      "path": "select/11_Shameless_Billy_Joel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Lifestyles of the Rich and Shameless",
+      "artist": "Lost Boyz",
+      "has_synced": true,
+      "path": "select/12_Lifestyles_of_the_Rich_and_Shameless_Lost_Boyz.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Shameless",
+      "artist": "Striking Matches",
+      "has_synced": true,
+      "path": "select/13_Shameless_Striking_Matches.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "A Wild, Shameless Plain",
+      "artist": "Every Time I Die",
+      "has_synced": true,
+      "path": "select/14_A_Wild,_Shameless_Plain_Every_Time_I_Die.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Shameless",
+      "artist": "Camila Cabello",
+      "has_synced": false,
+      "path": "select/pl_01_Shameless_Camila_Cabello.txt"
+    }
+  ]
+}
